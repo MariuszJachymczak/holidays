@@ -1,0 +1,15 @@
+.holiday-item {
+  width: 50vw;
+  border: 3px solid #ff0000;
+  
+   
+}
+
+/* .holiday-item:last-of-type {
+    margin-bottom: 0;
+} */
+
+.holiday-item-top {
+    display: flex;
+    justify-content: space-between;
+}

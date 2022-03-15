@@ -1,0 +1,10 @@
+.holidays-page{
+    padding: 0 10px 0 10px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0 10px 0;
+    width: 50vw;
+}
